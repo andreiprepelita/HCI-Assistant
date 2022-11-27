@@ -1,6 +1,8 @@
 # HCI Assistant #project #infoiasi #wade #web
 
 The deliverables of this project can be found below:
+- [Design of the application](Diagrams/)
+- [Scholarly HTML technical report](https://github.com/andreiprepelita/HCI-Assistant/tree/main/Scholarly%20HTML/Technical%20Report#:~:text=/-,Technical%20Report/,-Go%20to%20file)
 - [Open API Specification](https://app.swaggerhub.com/apis/ANDREIPREP999_1/HCI_Template/1.0.0)
 
 
